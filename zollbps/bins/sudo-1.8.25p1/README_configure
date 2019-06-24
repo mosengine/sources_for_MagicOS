@@ -1,0 +1,2 @@
+configure: You will need to customize examples/pam.conf and install it as /etc/pam.d/sudo
+
